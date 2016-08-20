@@ -4,13 +4,15 @@ So, I write how to set the go development environment, and go example codes here
 <br>
 If you have a question or find some error(bugs or anything wrong...), feel free to open an issue.<br>
 TIA :)
+<br>
 
 
-# How to set the build environment.
+# Set the build environment.
 I write here how to set the environment for build a go programs.<br>
 But, the target is only linux based system not included windows system.
 So, if you want to set the windows development environment, check this website [Install the Go tools](https://golang.org/doc/install#install).
 <br>
+
 1. First you get the go language to [Golang.org](https://golang.org/dl/).
 2. Second, you decompress the go language file to <code>/usr/local</code>.
 	* <code>tar xvfz go1.7.linux-amd64.tar.gz -C /usr/local</code>.
